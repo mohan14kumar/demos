@@ -1,3 +1,2 @@
-Hi,
-What is your name?
+Hello,
 My name is kumar.
